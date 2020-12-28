@@ -1,0 +1,10 @@
+{
+    "test": {
+        "PORT": 3001,
+        "DB_HOST": "10.12.40.86"
+    },
+    "development": {
+        "PORT": 3001,
+        "DB_HOST": "localhost"
+    }
+}
